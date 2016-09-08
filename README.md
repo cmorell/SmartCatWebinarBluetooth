@@ -3,9 +3,13 @@
 Contingut del webinar realitzat en el marc del SmartCatChallenge. Podreu trobar tot el material utilitzat a més d'enllaços d'interès.
 
 ##Contingut
-- Presentació en format [pdf](./SmartCat-Bluetooth.pdf)
-- [Video de la presentació](./videos/IMG_0816.m4v)
-- Codi de la presentació [BLEFinder](https://github.com/cmorell/BLEFinderSmartCat) (Broadcasting-Observer Sample Code)
+- Presentació Bluetooth informativa en format [pdf](./SmartCat-Bluetooth.pdf)
+- Presentació Bluetooth practica en format [pdf](./SmartCat-BluetoothTecnico.pdf)
+- [Video de la presentació Brodcast](./videos/IMG_0816.m4v)
+- [Video de la presentació Central](./videos/IMG_1371)
+- Codi de [BLEFinder iOS](./code/iOS-BLEFinder-BroadcastObserver) (Broadcasting-Observer Sample Code)
+- Codi de [BLEFinder Android](./code/Android-BluetoothLEAdverstising) (Broadcasting-Observer Sample Code)
+- Codi de [Central-Peripheral iOS](./code/iOS-CentralPeripheralDemo)
 
 ##Links d'interès
 
